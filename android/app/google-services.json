@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517159404131",
+    "project_id": "panther-mania",
+    "storage_bucket": "panther-mania.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517159404131:android:81a5a5c1f3bddbe44aee56",
+        "android_client_info": {
+          "package_name": "com.example.panther_mania"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOf72cz9fIIYrYnB40zApoEGKVsv207Q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
